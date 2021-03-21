@@ -1,2 +1,2 @@
-config.json
-- steamIDs => set players` steamIds to filter result by them
+CLI App which reads and parses CSGO Demofile.
+The app returns data in JSON.
